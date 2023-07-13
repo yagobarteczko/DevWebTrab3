@@ -5,12 +5,12 @@ Desenvolvimento Web - Trabalho 03 - React
   Yago Gabriel Barteczko 18008526
 
  
-## Framework para a criação da API RET
+## Framework para a criação da API REST
 
-  - SprigBoot
+  - SpringBoot
  
 ## Descrição do Projeto
-  Terceiro trabalho da disciplina de Desenvolvimento Web utilizando Spring boot, React e Javascript para a implementação de uma API REST que possibilita listar e adicionar novos produtos a um sistema de supermercado.
+  Trabalho 3 de Desenvolvimento Web utilizando Spring boot, React e Javascript para a implementação de uma API REST que possibilita listar e adicionar novos produtos a um sistema de supermercado.
 
 ## Funcionalidades
  Cadastro de produtos
